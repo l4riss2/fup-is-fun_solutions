@@ -1,2 +1,3 @@
-# fup-is-fun_solutions
-Minhas soluções em C para as listas do Fup is Fun no Moodle.
+# Resoluções de Questões – Fup is Fun (Moodle)
+
+Este repositório contém **minhas resoluções pessoais** utilizando a linguagem **C** para as listas de exercícios **"Fup is Fun"**, disponibilizadas na plataforma Moodle da UFC Quixadá.  
